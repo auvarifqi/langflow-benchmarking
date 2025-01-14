@@ -1,4 +1,3 @@
-```markdown
 # Langflow
 
 Langflow is an open-source, Python-powered visual framework for building multi-agent and Retrieval-Augmented Generation (RAG) applications. With its intuitive drag-and-drop interface, Langflow simplifies the process of creating AI workflows, enabling developers to turn their ideas into functional solutions effortlessly.
@@ -127,4 +126,3 @@ For further assistance, join the [Langflow Discord Server](https://discord.gg/la
 ---
 
 Start building with Langflow and unleash the power of AI in your applications!
-```
